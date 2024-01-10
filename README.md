@@ -1,2 +1,0 @@
-# Javascript
-by using javascript
