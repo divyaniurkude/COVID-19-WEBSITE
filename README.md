@@ -22,7 +22,7 @@ LinkedIn-https://www.linkedin.com/in/divyani-urkude/
 
 # Output - 3
 
-![Screenshot (421)](https://github.com/QuantumCoding123/Day-8-Own-Bussiness-Company-Website/assets/166281221/f41cdd30-e22b-4f07-95b6-367caa3924fb)
+![Screenshot (421)](https://github.com/divyaniurkude/COVID-19-WEBSITE/blob/main/Screenshot%20(421).png)
 
 
 # Output - 4
