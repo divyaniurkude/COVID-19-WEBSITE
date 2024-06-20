@@ -29,3 +29,15 @@ LinkedIn-https://www.linkedin.com/in/divyani-urkude/
 
 ![Screenshot (422)](https://github.com/QuantumCoding123/Day-8-Own-Bussiness-Company-Website/assets/166281221/c2177c70-c025-425b-8971-2472e91d6913)
 
+# Output - 5
+
+![Screenshot (423)](https://github.com/QuantumCoding123/Day-8-Own-Bussiness-Company-Website/assets/166281221/c2177c70-c025-425b-8971-2472e91d6913)
+
+# Output - 6
+
+![Screenshot (424)](https://github.com/QuantumCoding123/Day-8-Own-Bussiness-Company-Website/assets/166281221/c2177c70-c025-425b-8971-2472e91d6913)
+
+# Output - 7
+
+![Screenshot (425)](https://github.com/QuantumCoding123/Day-8-Own-Bussiness-Company-Website/assets/166281221/c2177c70-c025-425b-8971-2472e91d6913)
+
